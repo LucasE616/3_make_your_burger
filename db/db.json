@@ -1,0 +1,143 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      },
+      {
+        "id": 5,
+        "tipo": "Brioche"
+      },
+      {
+        "id": 6,
+        "tipo": "Australiano"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Costela"
+      },
+      {
+        "id": 4,
+        "tipo": "Filá Mignon"
+      },
+      {
+        "id": 5,
+        "tipo": "Paleta"
+      },
+      {
+        "id": 6,
+        "tipo": "Acém"
+      },
+      {
+        "id": 7,
+        "tipo": "Cupim"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Calabresa"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 5,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 6,
+        "tipo": "Pepino"
+      },
+      {
+        "id": 7,
+        "tipo": "Presunto"
+      },
+      {
+        "id": 8,
+        "tipo": "Mussarela"
+      },
+      {
+        "id": 9,
+        "tipo": "Alface"
+      },
+      {
+        "id": 10,
+        "tipo": "Frango"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": "1",
+      "tipo": "Solicitado"
+    },
+    {
+      "id": "2",
+      "tipo": "Em produção"
+    },
+    {
+      "id": "3",
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "id": "8ad8",
+      "nome": "Lucas E",
+      "carne": "Cupim",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Calabresa",
+        "Tomate",
+        "Mussarela"
+      ],
+      "status": "Finalizado"
+    },
+    {
+      "id": "353a",
+      "nome": "Lucas Emanuel",
+      "carne": "Picanha",
+      "pao": "Brioche",
+      "opcionais": [
+        "Cheddar",
+        "Tomate",
+        "Alface"
+      ],
+      "status": "Finalizado"
+    }
+  ]
+}
